@@ -34,6 +34,7 @@ Heroku 提供免费账号，具体限制如下：
 2. Clone 本项目：`git clone https://github.com/521xueweihan/shadowsocks-heroku.git`
 
 ### 二、部署
+(https://heroku.com/deploy?template=https://github.com/UncleZhang1990/ssr)
 heroku 在创建项目的时候可以，通过关联 GitHub 账号，直接部署 GitHub 账号下的项目。具体步骤如下：
 
 1. 登陆 Heroku 帐号，后进入 Dashboard ——> Create New App ——> 输入 App Name
